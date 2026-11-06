@@ -72,3 +72,5 @@ You can also use Live Server in VS Code for easier development.
 This project was built as a CSS practice project to understand how different CSS properties and layout techniques work together in a complete webpage.
 
 Made with HTML & CSS 💻📷
+## Have a look   
+https://capturehub.netlify.app/
